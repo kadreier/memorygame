@@ -1,0 +1,49 @@
+h1{
+  margin-bottom: 6px;
+  text-align: center;
+}
+
+#score{
+  width: 50%;
+  height: 41.5px;
+  margin-left: 45%;
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+}
+
+#game{
+  width: 80%;
+  height:70%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+  padding-left: 10%;
+  display: inline-block;
+}
+
+#game div{
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  background-color:darksalmon;
+
+}
+
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color:green;
+}
+.orange{
+  background-color: orange;
+}
+.purple{
+  background-color: purple;
+}
